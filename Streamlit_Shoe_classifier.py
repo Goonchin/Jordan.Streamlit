@@ -1,5 +1,5 @@
-
 import streamlit as st
+from fastai.vision.all import *
 import gdown
 
 st.markdown("""# Sneaker Shoe Type Classifier 
