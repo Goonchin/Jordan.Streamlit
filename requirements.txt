@@ -1,0 +1,4 @@
+streamlit==1.15.0
+fastai==2.7.10
+fastcore==1.5.27
+gdown==4.4.0
